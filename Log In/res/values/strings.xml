@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmartVan</string>
+    <string name="smartvan">SmartVan</string>
+    <string name="school_van_management_system">School Van Management System</string>
+    <string name="national_identity_card">National Identity Card :</string>
+    <string name="_985242917v_199852425917">985242917V/199852425917</string>
+    <string name="todo">TODO</string>
+    <string name="password">Password</string>
+    <string name="forget_password">*Forget Password</string>
+</resources>
